@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #define TRUE 1
 #define FALSE 0
-/* Définition des fonctions de tri */
 /// tri à bulle croissante
 void tri_a_bulle_c(int *t,int n){
     int j =0;int tmp =0;int test =1;
